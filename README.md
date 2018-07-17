@@ -1,2 +1,2 @@
-# Android-Project
+# AndroidProject
 Trip Reminder Using Android
